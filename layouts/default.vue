@@ -5,7 +5,7 @@
 			<Nuxt />
 		</div>
     <footer>
-      <p>Copyright &copy; All rights reserved. Built with love with help from Sarah Drasner</p>
+      <p>Copyright &copy; All rights reserved. Built with love using Nuxt.js and guide from Sarah Drasner</p>
     </footer>
 	</div>
 </template>
